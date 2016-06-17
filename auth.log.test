@@ -1,0 +1,77 @@
+Jun 16 21:34:24 yosemite su[20599]: pam_unix(su:session): session closed for user root
+Jun 16 21:34:24 yosemite sudo: pam_unix(sudo:session): session closed for user root
+Jun 16 21:34:54 yosemite sudo:     eric : TTY=pts/1 ; PWD=/home/eric ; USER=root ; COMMAND=/usr/sbin/adduser alfred
+Jun 16 21:34:54 yosemite sudo: pam_unix(sudo:session): session opened for user root by eric(uid=0)
+Jun 16 21:34:54 yosemite groupadd[21229]: group added to /etc/group: name=alfred, GID=1002
+Jun 16 21:34:55 yosemite groupadd[21229]: group added to /etc/gshadow: name=alfred
+Jun 16 21:34:55 yosemite groupadd[21229]: new group: name=alfred, GID=1002
+Jun 16 21:34:57 yosemite useradd[21233]: new user: name=alfred, UID=1002, GID=1002, home=/home/alfred, shell=/bin/bash
+Jun 16 21:35:12 yosemite passwd[21258]: pam_unix(passwd:chauthtok): password changed for alfred
+Jun 16 21:35:12 yosemite passwd[21258]: gkr-pam: couldn't update the login keyring password: no old password was entered
+Jun 16 21:35:27 yosemite chfn[21313]: changed user 'alfred' information
+Jun 16 21:35:29 yosemite sudo: pam_unix(sudo:session): session closed for user root
+Jun 16 21:37:21 yosemite sshd[21845]: Invalid user foo from 127.0.0.1
+Jun 16 21:37:21 yosemite sshd[21845]: input_userauth_request: invalid user foo [preauth]
+Jun 16 21:37:24 yosemite sshd[21845]: pam_unix(sshd:auth): check pass; user unknown
+Jun 16 21:37:24 yosemite sshd[21845]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+Jun 16 21:37:26 yosemite sshd[21845]: Failed password for invalid user foo from 127.0.0.1 port 48044 ssh2
+Jun 16 21:37:28 yosemite sshd[21845]: pam_unix(sshd:auth): check pass; user unknown
+Jun 16 21:37:30 yosemite sshd[21845]: Failed password for invalid user foo from 127.0.0.1 port 48044 ssh2
+Jun 16 21:37:32 yosemite sshd[21845]: pam_unix(sshd:auth): check pass; user unknown
+Jun 16 21:37:34 yosemite sshd[21845]: Failed password for invalid user foo from 127.0.0.1 port 48044 ssh2
+Jun 16 21:37:34 yosemite sshd[21845]: Connection closed by 127.0.0.1 port 48044 [preauth]
+Jun 16 21:37:34 yosemite sshd[21845]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1
+Jun 16 21:37:51 yosemite sshd[22008]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=root
+Jun 16 21:37:53 yosemite sshd[22008]: Failed password for root from 127.0.0.1 port 48046 ssh2
+Jun 16 21:37:59 yosemite sshd[22008]: message repeated 2 times: [ Failed password for root from 127.0.0.1 port 48046 ssh2]
+Jun 16 21:37:59 yosemite sshd[22008]: Connection closed by 127.0.0.1 port 48046 [preauth]
+Jun 16 21:37:59 yosemite sshd[22008]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=root
+Jun 16 21:38:18 yosemite sshd[22120]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=127.0.0.1  user=alfred
+Jun 16 21:38:20 yosemite sshd[22120]: Failed password for alfred from 127.0.0.1 port 48048 ssh2
+Jun 16 21:38:24 yosemite sshd[22120]: Failed password for alfred from 127.0.0.1 port 48048 ssh2
+Jun 16 21:38:28 yosemite sshd[22120]: Accepted password for alfred from 127.0.0.1 port 48048 ssh2
+Jun 16 21:38:28 yosemite sshd[22120]: pam_unix(sshd:session): session opened for user alfred by (uid=0)
+Jun 16 21:38:28 yosemite systemd: pam_unix(systemd-user:session): session opened for user alfred by (uid=0)
+Jun 16 21:38:28 yosemite systemd-logind[789]: New session 424 of user alfred.
+Jun 16 21:38:36 yosemite sshd[22228]: Received disconnect from 127.0.0.1 port 48048:11: disconnected by user
+Jun 16 21:38:36 yosemite sshd[22228]: Disconnected from 127.0.0.1 port 48048
+Jun 16 21:38:36 yosemite sshd[22120]: pam_unix(sshd:session): session closed for user alfred
+Jun 16 21:38:36 yosemite systemd-logind[789]: Removed session 424.
+Jun 16 21:38:36 yosemite systemd: pam_unix(systemd-user:session): session closed for user alfred
+Jun 16 21:39:01 yosemite CRON[22389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 16 21:39:01 yosemite CRON[22389]: pam_unix(cron:session): session closed for user root
+Jun 16 21:39:11 yosemite sshd[22489]: Invalid user bar from 144.26.62.134
+Jun 16 21:39:11 yosemite sshd[22489]: input_userauth_request: invalid user bar [preauth]
+Jun 16 21:39:23 yosemite sshd[22489]: pam_unix(sshd:auth): check pass; user unknown
+Jun 16 21:39:23 yosemite sshd[22489]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=144.26.62.134
+Jun 16 21:39:24 yosemite sshd[22489]: Failed password for invalid user bar from 144.26.62.134 port 54705 ssh2
+Jun 16 21:39:26 yosemite sshd[22489]: pam_unix(sshd:auth): check pass; user unknown
+Jun 16 21:39:28 yosemite sshd[22489]: Failed password for invalid user bar from 144.26.62.134 port 54705 ssh2
+Jun 16 21:39:31 yosemite sshd[22489]: Connection closed by 144.26.62.134 port 54705 [preauth]
+Jun 16 21:39:31 yosemite sshd[22489]: PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=144.26.62.134
+Jun 16 21:39:55 yosemite sshd[22650]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=144.26.62.134  user=alfred
+Jun 16 21:39:57 yosemite sshd[22650]: Failed password for alfred from 144.26.62.134 port 54706 ssh2
+Jun 16 21:40:02 yosemite sshd[22650]: Accepted password for alfred from 144.26.62.134 port 54706 ssh2
+Jun 16 21:40:02 yosemite sshd[22650]: pam_unix(sshd:session): session opened for user alfred by (uid=0)
+Jun 16 21:40:02 yosemite systemd: pam_unix(systemd-user:session): session opened for user alfred by (uid=0)
+Jun 16 21:40:02 yosemite systemd-logind[789]: New session 426 of user alfred.
+Jun 16 21:40:10 yosemite sshd[22737]: Received disconnect from 144.26.62.134 port 54706:11: disconnected by user
+Jun 16 21:40:10 yosemite sshd[22737]: Disconnected from 144.26.62.134 port 54706
+Jun 16 21:40:10 yosemite sshd[22650]: pam_unix(sshd:session): session closed for user alfred
+Jun 16 21:40:10 yosemite systemd-logind[789]: Removed session 426.
+Jun 16 21:40:10 yosemite systemd: pam_unix(systemd-user:session): session closed for user alfred
+Jun 16 21:40:32 yosemite sshd[22869]: Accepted password for alfred from 144.26.62.134 port 54707 ssh2
+Jun 16 21:40:32 yosemite sshd[22869]: pam_unix(sshd:session): session opened for user alfred by (uid=0)
+Jun 16 21:40:32 yosemite systemd-logind[789]: New session 427 of user alfred.
+Jun 16 21:40:32 yosemite systemd: pam_unix(systemd-user:session): session opened for user alfred by (uid=0)
+Jun 16 21:40:36 yosemite sshd[22927]: Received disconnect from 144.26.62.134 port 54707:11: disconnected by user
+Jun 16 21:40:36 yosemite sshd[22927]: Disconnected from 144.26.62.134 port 54707
+Jun 16 21:40:36 yosemite sshd[22869]: pam_unix(sshd:session): session closed for user alfred
+Jun 16 21:40:36 yosemite systemd-logind[789]: Removed session 427.
+Jun 16 21:40:36 yosemite systemd: pam_unix(systemd-user:session): session closed for user alfred
+Jun 16 21:40:52 yosemite sshd[23013]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=144.26.62.134  user=root
+Jun 16 21:40:54 yosemite sshd[23013]: Failed password for root from 144.26.62.134 port 54708 ssh2
+Jun 16 21:40:55 yosemite sshd[23013]: Connection closed by 144.26.62.134 port 54708 [preauth]
+Jun 16 21:41:17 yosemite sshd[23115]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=144.26.62.134  user=alfred
+Jun 16 21:41:19 yosemite sshd[23115]: Failed password for alfred from 144.26.62.134 port 54709 ssh2
+Jun 16 21:41:20 yosemite sshd[23115]: Connection closed by 144.26.62.134 port 54709 [preauth]
