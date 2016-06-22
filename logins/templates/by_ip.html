@@ -1,0 +1,31 @@
+{% load staticfiles %} <!--  for the static function -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+  <title>Logins</title>
+  
+  <link rel="stylesheet" type="text/css" 
+                         href="{% static "css/layout.css" %}" />
+ 
+  {% block localstyle %}{% endblock %}
+</head>
+ 
+<body>
+<div class="container">
+  <div class="header">
+    <h2>Failed Logins - By IP{% block subtitle %}{% endblock %}</h2>
+  </div>
+  <div class="navigation">
+    <a href="/logins">All</a>
+    <a href="/logins/by_ip">By IP</a>
+    <a href="/logins/by_login">By Login</a>
+  </div>
+  <div class="content">
+    {% block content %}{% endblock %}
+  </div><!-- content -->
+</div><!-- container -->
+ 
+</body>
+</html>

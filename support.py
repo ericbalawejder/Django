@@ -29,6 +29,7 @@ if __name__ == "__main__":
     expr = r":\s(Failed|Accepted)\spassword" 
 
     for log_file in ( 
+        #"~/workspace/progsite/auth.log.test",
         "/var/log/auth.log", 
         #"/var/log/auth.log.1" 
     ):

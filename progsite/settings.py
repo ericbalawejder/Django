@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'logins',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -101,4 +102,9 @@ USE_TZ = False
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/static/progsite/'
+
+# add this entry 
+STATICFILES_DIRS = (
+    '/var/www/html/static/progsite',
+)
