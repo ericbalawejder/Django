@@ -1,31 +1,37 @@
-{% load staticfiles %} <!--  for the static function -->
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <title>Logins</title>
-  
-  <link rel="stylesheet" type="text/css" 
-                         href="{% static "css/layout.css" %}" />
+{% extends 'base.html' %}
  
-  {% block localstyle %}{% endblock %}
-</head>
+{% block subtitle %} - By IP{% endblock %}
  
-<body>
-<div class="container">
-  <div class="header">
-    <h2>Failed Logins - By IP{% block subtitle %}{% endblock %}</h2>
-  </div>
-  <div class="navigation">
-    <a href="/logins">All</a>
-    <a href="/logins/by_ip">By IP</a>
-    <a href="/logins/by_login">By Login</a>
-  </div>
-  <div class="content">
-    {% block content %}{% endblock %}
-  </div><!-- content -->
-</div><!-- container -->
+{% block localstyle %}
+<style type='text/css'>
+.entry td,th {
+  padding: 5px;
+  vertical-align: top;
+}
+.entry th {
+  text-align: right;
+}
+.entry pre {
+  margin: 0;
+  font-family: inherit;
+}
+</style>
+{% endblock %}
  
-</body>
-</html>
+ 
+{% block content %}
+<table class='entry'>
+<tr><th>ip:</th><td>{{entry.created}}</td></tr>
+</table>
+
+{% if failed %}
+  {% for fail in failed %}
+    <a> <a class='details' href="/logins/{{ fail.id }}">{{ fail.ip }}</a>
+    <br />
+  {% endfor %}
+{% else %}
+  <p>No entries are available.</p>
+{% endif %}
+
+{% endblock %}
+

@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+ 
+{% block subtitle %}- Details{% endblock %}
+ 
+{% block localstyle %}
+<style type='text/css'>
+.entry td,th {
+  padding: 5px;
+  vertical-align: top;
+}
+.entry th {
+  text-align: right;
+}
+.entry pre {
+  margin: 0;
+  font-family: inherit;
+}
+</style>
+{% endblock %}
+ 
+ 
+{% block content %}
+<table class='entry'>
+<tr><th>id:</th><td>{{entry.id}}</td></tr>
+<tr><th>title:</th><td>{{entry.title}}</td></tr>
+<tr><th>category:</th><td>{{entry.category}}</td></tr>
+<tr><th>created:</th><td>{{entry.created}}</td></tr>
+<tr><th>content:</th><td><pre>{{entry.content}}</pre></td></tr>
+</table>
+{% endblock %}
