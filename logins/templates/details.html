@@ -21,10 +21,8 @@
  
 {% block content %}
 <table class='entry'>
-<tr><th>id:</th><td>{{entry.id}}</td></tr>
-<tr><th>title:</th><td>{{entry.title}}</td></tr>
-<tr><th>category:</th><td>{{entry.category}}</td></tr>
-<tr><th>created:</th><td>{{entry.created}}</td></tr>
-<tr><th>content:</th><td><pre>{{entry.content}}</pre></td></tr>
+<tr><th>initiated:</th><td>{{fail.initiated}}</td></tr>
+<tr><th>user:</th><td>{{fail.login}}</td></tr>
+<tr><th>ip:</th><td>{{fail.ip}}</td></tr>
 </table>
 {% endblock %}

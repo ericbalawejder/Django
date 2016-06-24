@@ -14,17 +14,19 @@ def index(request):
 
 def by_ip(request):
     #return HttpResponse("The logins index.")
-    failed = Fail.objects.all()
-    print failed
-    context = {'failed': failed}
-    return render(request, 'by_ip.html', context)
+    failed = Fail.objects.all().distinct()
+    for item in failed:
+        print item
+        context = {'failed': failed}
+        return render(request, 'by_ip.html', context)
 
 def by_login(request):
     #return HttpResponse("The logins index.")
-    failed = Fail.objects.all()
-    print failed
-    context = {'failed': failed}
-    return render(request, 'by_login.html', context)
+    failed = Fail.objects.all().distinct()
+    for item in failed:
+        print item
+        context = {'failed': failed}
+        return render(request, 'by_login.html', context)
 
 from django.shortcuts import get_object_or_404
  

@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 
-import os
+#import os
+import pprint, re, datetime, os, support
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "progsite.settings")
 from logins.models import Fail
 
-import pprint, re, datetime
-import support
+#import pprint, re, datetime, os, support
+#import support
 
 # get object for pretty-printing the entries
 pp = pprint.PrettyPrinter()
@@ -19,8 +20,9 @@ filter_expr = ":\s(Failed|Accepted)\s(password|none)"
 
 # this is a regular expression used to match the lines in order
 # to extract information
+line_expr = r"(\w+\s\d+\s\d+.\d+.\d+) yosemite sshd\[(\d+)\]. (Failed|Accepted) password for (invalid user \w*|\w*) from (\d+.\d+.\d+.\d+)"
 # line_expr = r"....."
-# line_pattern = re.compile(line_expr)
+line_pattern = re.compile(line_expr)
 
 # get a log file
 
@@ -39,6 +41,32 @@ lines = support.getFileLines( log_file, filter_expr )
 
 for line in lines:
     if debug: print line # debugging only
+    
+    result = line_pattern.match(line)
+    
+    access = result.group(1)
+    time = support.logtime2datetime(access)
+    
+    pid = result.group(2)
+    
+    status = result.group(3)
+     
+    login = result.group(4)
+    if "invalid user" in login:
+        realUser = login.split()
+        login = realUser[2]
+
+    
+    ip = result.group(5)
+    
+    if pid not in entries:
+        entries[pid] = (time, login, ip)
+    
+    
+    if pid in entries and status == "Accepted":
+        entries.pop(pid, None)    
+    
+
 
     '''
     Use line_patteren to extract from each filtered line the following:
@@ -72,6 +100,14 @@ print any new entries, one per line, in format like:
 
 in debugging mode, print other information to help
 ''' 
+
+for pid in entries: 
+    entry = Fail(initiated = entries[pid][0], login = entries[pid][1], ip = entries[pid][2])
+    try:
+        entry.save()
+        print "new entry: " + str(entries[pid])
+    except Exception as err:
+        print err
 
 print "hello"
 

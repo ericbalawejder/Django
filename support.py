@@ -30,7 +30,8 @@ if __name__ == "__main__":
 
     for log_file in ( 
         #"~/workspace/progsite/auth.log.test",
-        "/var/log/auth.log", 
+        "auth.log.test",
+        #"/var/log/auth.log", 
         #"/var/log/auth.log.1" 
     ):
         print "==> file : " + log_file
