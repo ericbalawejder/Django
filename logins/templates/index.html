@@ -17,17 +17,23 @@
 }
 </style>
 {% endblock %}
- 
-
 
 {% block content %}
+<table border="1">
+        <tr>
+            <th>Initiated</th>
+            <th>Login</th>
+            <th>IP</th>
+        </tr>
 {% if failed %}
   {% for fail in failed %}
-    <a>{{ fail.initiated }}</a>
-    <a>{{ fail.login }}</a>
-    <a>{{ fail.ip }}</a>
-    <br />
+  	<tr>
+    	<td>{{ fail.initiated }}</td>
+    	<td>{{ fail.login }}</td>
+    	<td>{{ fail.ip }}</td>
+    </tr>
   {% endfor %}
+</table>
 {% else %}
   <p>No entries are available.</p>
 {% endif %}

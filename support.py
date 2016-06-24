@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-import datetime
-import re
+import datetime, re
 
 def logtime2datetime(logts):
     now = datetime.datetime.now()
@@ -29,9 +28,8 @@ if __name__ == "__main__":
     expr = r":\s(Failed|Accepted)\spassword" 
 
     for log_file in ( 
-        #"~/workspace/progsite/auth.log.test",
-        "auth.log.test",
-        #"/var/log/auth.log", 
+        #"auth.log.test",
+        "/var/log/auth.log", 
         #"/var/log/auth.log.1" 
     ):
         print "==> file : " + log_file

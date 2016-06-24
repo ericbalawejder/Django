@@ -9,4 +9,3 @@ urlpatterns = [
     url(r'^(?P<fail_id>\d+)/$', views.details),
     url(r'^by_login/$', views.by_login, name='by_login'),
 ]
- 
