@@ -19,6 +19,7 @@ filter_expr = ":\s(Failed|Accepted)\s(password|none)"
 
 # this is a regular expression used to match the lines in order
 # to extract information
+# This line will not work when it is newlined in order to see in the window
 line_expr = r"(\w+\s\d+\s\d+.\d+.\d+) yosemite sshd\[(\d+)\]. (Failed|Accepted) password for (invalid user \w*|\w*) from (\d+.\d+.\d+.\d+)"
 line_pattern = re.compile(line_expr)
 
@@ -53,7 +54,6 @@ for line in lines:
     if "invalid user" in login:
         realUser = login.split()
         login = realUser[2]
-
     
     ip = result.group(5)
     

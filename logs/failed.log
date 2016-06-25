@@ -1,0 +1,788 @@
+
+==> processing: /var/log/auth.log on 2016-06-24 22:50:01.869044
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:51:01.583997
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:52:02.386086
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:53:02.171698
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:54:01.903768
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:55:01.663912
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:56:01.475531
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:57:02.264842
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:58:02.033507
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 22:59:01.801889
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:00:01.565535
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:01:02.282750
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:02:02.044236
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:03:01.805403
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:04:01.539758
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:05:02.260005
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:06:02.005874
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:07:01.814234
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:08:01.547841
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:09:02.326173
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:10:02.053706
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:11:01.906971
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:12:01.664481
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:13:02.397127
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:14:02.101632
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:15:01.856051
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:16:01.627895
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:17:02.357522
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:18:02.120068
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:19:01.909251
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:20:01.628040
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:21:02.412161
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:22:02.171483
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:23:02.004300
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:24:01.819448
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:25:01.547667
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:26:02.355743
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:27:02.123359
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:28:01.899466
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:29:01.654387
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:30:01.460120
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:31:02.229797
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:32:01.969609
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:33:01.737165
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:34:01.556069
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:35:02.285057
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:36:02.072272
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:37:01.848220
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:38:01.564343
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:39:02.310947
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:40:02.035062
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:41:01.852325
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:42:01.569469
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:43:02.335850
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:44:02.080861
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:45:01.838889
+new entry: ('2016-06-24 23:44:30', 'alfred', '144.26.62.134')
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:46:01.639797
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:47:01.463396
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+new entry: ('2016-06-24 23:46:04', 'welvin', '144.26.62.134')
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:48:02.315291
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:49:02.172461
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:50:01.997243
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:51:01.860405
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:52:01.694892
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:53:01.507360
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:54:02.352560
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:55:02.155946
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:56:01.959725
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:57:01.808212
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:58:01.675824
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-24 23:59:01.525209
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:00:02.336499
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:01:02.204747
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:02:01.985907
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:03:01.904314
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:04:01.737726
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:05:01.550961
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:06:02.399079
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:07:02.213637
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:08:02.010428
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:09:01.876803
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:10:01.760627
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:11:01.597814
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:12:01.459650
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:13:02.255356
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:14:02.097978
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:15:02.011815
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:16:01.821022
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:17:01.681716
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:18:01.491316
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")
+
+==> processing: /var/log/auth.log on 2016-06-25 00:19:02.380641
+(1062, u"Duplicate entry '2016-06-24 23:44:30.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:14:21.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:20:01.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 23:46:04.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-23 15:53:34.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:22:18.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:13:51.000000' for key 'initiated'")
+(1062, u"Duplicate entry '2016-06-24 22:21:53.000000' for key 'initiated'")

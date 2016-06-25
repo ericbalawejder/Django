@@ -36,4 +36,3 @@ if __name__ == "__main__":
         lines = getFileLines(log_file,expr)
         for line in lines:
             print line
-
